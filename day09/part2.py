@@ -42,4 +42,3 @@ if __name__ == "__main__":
                 if knots[KNOT_COUNT - 1] not in locations: locations.append(knots[KNOT_COUNT - 1])
 
     print(len(locations))
-                

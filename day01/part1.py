@@ -8,6 +8,6 @@ with open("puzzledata.txt") as file:
                 biggest_total = running_total
             running_total = 0
         else:
-            running_total += int(line)            
+            running_total += int(line)
 
 print(biggest_total)

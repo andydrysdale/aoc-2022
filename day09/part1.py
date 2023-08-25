@@ -34,4 +34,3 @@ if __name__ == "__main__":
                 if tail_pos not in locations: locations.append(tail_pos)
 
     print(len(locations))
-                
